@@ -18,3 +18,31 @@
 -HTTPS
 -Tree Shaking-remove unused code
 -Diffrent dev and prod bundles
+
+
+
+
+# Food Ordering App
+/**
+ * Header
+ * -logo
+ * -Nav Items
+ * Body
+ *  -search
+ *  -RestraurantContainer
+ * -RestraurantCard
+ *   -Img
+ *    -Name of Res,Star Rating,cuisine,delery tie
+ * Footer
+ * -Copyright
+ * -Links
+ * -Address
+ * -Contact
+ * 
+ */
+
+
+
+ Two types of Export/Import
+
+ -
